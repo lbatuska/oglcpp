@@ -14,3 +14,6 @@ build
 imgui.ini
 assimp_log.txt
 .kdev4
+
+!include
+!src
