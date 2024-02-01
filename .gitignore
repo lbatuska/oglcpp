@@ -12,3 +12,5 @@ _deps
 build
 
 imgui.ini
+assimp_log.txt
+.kdev4
